@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     function loginfunction2(e){
         if(e.key==='Enter'){
             if(user.value==='admin' && pass.value==='zahra'){
-                window.location.href="/main/main.html";
+                window.location.href="main/main.html";
             }
             else{
                 alert("Wrong username or password!")
@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
 
     function loginfunction(){
         if(user.value==='admin' && pass.value==='zahra'){
-            window.location.href="/main/main.html";
+            window.location.href="main/main.html";
         }
         else{
             alert("Wrong username or password!")

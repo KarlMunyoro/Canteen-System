@@ -9,6 +9,6 @@ document.addEventListener('DOMContentLoaded', ()=>{
     }
 
     function logoutfunc(){
-        window.location.href='/docs/index.html'
+        window.location.href='docs/index.html'
     }
 })
