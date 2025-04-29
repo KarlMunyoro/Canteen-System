@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+}
+
+html{
+    background-color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+#mainpagebutton{
+    text-align: center;
+}
